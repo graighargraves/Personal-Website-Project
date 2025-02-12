@@ -26,3 +26,10 @@ html{
     margin-left: 80px;
     margin-right: 80px;
 }
+
+.headingsabout{
+    font-family: "fantasy", papyrus;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+}
