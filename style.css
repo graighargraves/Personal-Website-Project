@@ -27,7 +27,14 @@ html{
     margin-right: 80px;
 }
 
-.quote{
+about
+.headingsabout{
+    font-family: "fantasy", papyrus;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+
+  .quote{
     font-family: "bradley hand", cursive;
     text-align: center;
     font-size: 30px;
@@ -35,4 +42,5 @@ html{
     
 
     
+main
 }
