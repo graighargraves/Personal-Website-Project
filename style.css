@@ -27,6 +27,21 @@ html{
     margin-right: 80px;
 }
 
+portfolio
+.box {
+    width: 540px;
+    height: auto;
+    border: 5px solid black;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+
+  .tdbpic {
+    width: ;
+    height: auto;
+
+  }
 about
 .headingsabout{
     font-family: "fantasy", papyrus;
@@ -44,3 +59,4 @@ about
     
 main
 }
+main
